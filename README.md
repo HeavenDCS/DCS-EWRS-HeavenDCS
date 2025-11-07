@@ -7,8 +7,6 @@
 
 > **A dynamic, realistic radar warning system that provides Bearing, Range, and Altitude (BRA) information to player aircraft in DCS World missions.**
 
-![EWRS Banner](https://via.placeholder.com/1200x300/1a1a2e/eee?text=Early+Warning+Radar+Script)
-
 ---
 
 ## 📋 Table of Contents
